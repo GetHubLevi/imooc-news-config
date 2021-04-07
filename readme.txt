@@ -8,3 +8,5 @@ private void stopRequest(RequestContext context) {
 	context.getResponse().setCharacterEncoding("utf-8");
 	context.getResponse().setContentType(MediaType.APPLICATION_JSON_VALUE);
 }
+
+GPLGPLGPLGPL
